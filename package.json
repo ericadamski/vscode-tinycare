@@ -2,13 +2,16 @@
   "name": "tinycare",
   "displayName": "tinycare",
   "description": "A small extension that cares about you. ❤️🤗",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ericadamski",
   "engines": {
     "vscode": "^1.21.0"
   },
   "categories": ["Other"],
   "activationEvents": ["*"],
+  "repository": "git@github.com:ericadamski/vscode-tinycare.git",
+  "bugs": "https://github.com/ericadamski/vscode-tinycare/issues",
+  "license": "MIT",
   "main": "./out/tinycare",
   "contributes": {
     "commands": [
