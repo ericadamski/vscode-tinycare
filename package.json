@@ -7,8 +7,12 @@
   "engines": {
     "vscode": "^1.21.0"
   },
-  "categories": ["Other"],
-  "activationEvents": ["*"],
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
   "repository": "git@github.com:ericadamski/vscode-tinycare.git",
   "bugs": "https://github.com/ericadamski/vscode-tinycare/issues",
   "license": "MIT",
