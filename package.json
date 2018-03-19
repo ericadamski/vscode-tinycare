@@ -2,7 +2,7 @@
   "name": "tinycare",
   "displayName": "tinycare",
   "description": "A small extension that cares about you. ❤️🤗",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "ericadamski",
   "engines": {
     "vscode": "^1.21.0"
@@ -63,7 +63,6 @@
   },
   "dependencies": {
     "rxjs": "^5.5.7",
-    "scraperjs": "^1.2.0",
     "tinycare": "^1.0.0",
     "twit": "^2.2.9"
   }
