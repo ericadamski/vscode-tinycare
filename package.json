@@ -63,7 +63,7 @@
         "@types/node": "^7.0.43",
         "prettier": "^1.11.1",
         "typescript": "^2.6.1",
-        "vscode": "^1.1.6"
+        "vscode": "^1.1.17"
     },
     "dependencies": {
         "rxjs": "^5.5.7",
